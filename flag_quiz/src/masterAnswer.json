@@ -1,22 +1,13 @@
 {
     "level1": [
       {
-        "question": "flags/uk.png",
+        "question": "flags/gb.png",
         "choices": [
           "United Kingdom",
           "Australia",
           "New Zealand"
         ],
         "answer": "United Kingdom"
-      },
-      {
-        "question": "flags/italy.png",
-        "choices": [
-          "Italy",
-          "Spain",
-          "Portugal"
-        ],
-        "answer": "Italy"
       }
     ],
     "level2": [
