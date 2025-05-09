@@ -1,65 +1,106 @@
-[
-    {
+{
+    "level1": [
+      {
+        "question": "flags/uk.png",
+        "choices": [
+          "United Kingdom",
+          "Australia",
+          "New Zealand"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "flags/italy.png",
+        "choices": [
+          "Italy",
+          "Spain",
+          "Portugal"
+        ],
+        "answer": "Italy"
+      }
+    ],
+    "level2": [
+      {
+        "question": "flags/us.png",
+        "choices": [
+          "United States",
+          "Canada",
+          "Mexico"
+        ],
+        "answer": "United States"
+      },
+      {
+        "question": "flags/germany.png",
+        "choices": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+        ],
+        "answer": "Germany"
+      },
+      {
         "question": "flags/france.png",
         "choices": [
-            "France",
-            "Netherlands",
-            "Russia"
+          "France",
+          "Netherlands",
+          "Russia"
         ],
         "answer": "France"
-    },
-    {
+      },
+      {
         "question": "flags/japan.png",
         "choices": [
-            "Japan",
-            "South Korea",
-            "China"
+          "Japan",
+          "South Korea",
+          "China"
         ],
         "answer": "Japan"
-    },
-    {
+      },
+      {
         "question": "flags/brazil.png",
         "choices": [
-            "Brazil",
-            "Argentina",
-            "Mexico"
+          "Brazil",
+          "Argentina",
+          "Mexico"
         ],
         "answer": "Brazil"
-    },
-    {
+      },
+      {
         "question": "flags/canada.png",
         "choices": [
-            "Canada",
-            "United States",
-            "Australia"
+          "Canada",
+          "United States",
+          "Australia"
         ],
         "answer": "Canada"
-    },
-    {
+      },
+      {
         "question": "flags/south_africa.png",
         "choices": [
-            "South Africa",
-            "Nigeria",
-            "Kenya"
+          "South Africa",
+          "Nigeria",
+          "Kenya"
         ],
         "answer": "South Africa"
-    },
-    {
+      },
+      {
         "question": "flags/china.png",
         "choices": [
-            "China",
-            "India",
-            "Japan"
+          "China",
+          "India",
+          "Japan"
         ],
         "answer": "China"
-    },
-    {
+      },
+      {
         "question": "flags/chile.png",
         "choices": [
-            "Chile",
-            "Peru",
-            "Colombia"
+          "Chile",
+          "Peru",
+          "Colombia"
         ],
         "answer": "Chile"
-    }
-]
+      }
+    ]
+  }
+  
