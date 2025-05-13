@@ -1,17 +1,6 @@
 {
     "level1": [
       {
-        "question": "flags/gb.png",
-        "choices": [
-          "United Kingdom",
-          "Australia",
-          "New Zealand"
-        ],
-        "answer": "United Kingdom"
-      }
-    ],
-    "level2": [
-      {
         "question": "flags/us.png",
         "choices": [
           "United States",
@@ -19,79 +8,184 @@
           "Mexico"
         ],
         "answer": "United States"
-      },
+      }
+    
+    
       {
-        "question": "flags/germany.png",
+        "question": "flags/ca.png",
         "choices": [
-          "Germany",
-          "Austria",
-          "Switzerland"
-        ],
-        "answer": "Germany"
-      },
-      {
-        "question": "flags/france.png",
-        "choices": [
-          "France",
-          "Netherlands",
-          "Russia"
-        ],
-        "answer": "France"
-      },
-      {
-        "question": "flags/japan.png",
-        "choices": [
-          "Japan",
-          "South Korea",
-          "China"
-        ],
-        "answer": "Japan"
-      },
-      {
-        "question": "flags/brazil.png",
-        "choices": [
-          "Brazil",
-          "Argentina",
-          "Mexico"
-        ],
-        "answer": "Brazil"
-      },
-      {
-        "question": "flags/canada.png",
-        "choices": [
+          "Mongolia",
           "Canada",
-          "United States",
-          "Australia"
+          "China"
         ],
         "answer": "Canada"
       },
       {
-        "question": "flags/south_africa.png",
+        "question": "flags/cn.png",
         "choices": [
-          "South Africa",
-          "Nigeria",
-          "Kenya"
-        ],
-        "answer": "South Africa"
-      },
-      {
-        "question": "flags/china.png",
-        "choices": [
-          "China",
-          "India",
-          "Japan"
+          "Germany",
+          "Austria",
+          "China"
         ],
         "answer": "China"
       },
       {
-        "question": "flags/chile.png",
+        "question": "flags/fr.png",
+        "choices": [
+          "Romania",
+          "Latvia",
+          "France"
+        ],
+        "answer": "France"
+      },
+      {
+        "question": "flags/jp.png",
+        "choices": [
+          "Japan",
+          "South Korea",
+          "Samoa"
+        ],
+        "answer": "Japan"
+      },
+      {
+        "question": "flags/br.png",
+        "choices": [
+          "Brazil",
+          "Argentina",
+          "Sweden"
+        ],
+        "answer": "Brazil"
+      },
+      {
+        "question": "flags/gb.png",
+        "choices": [
+          "Latvia",
+          "Australia",
+          "United Kingdom"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "flags/au.png",
+        "choices": [
+          "New Zealand",
+          "Fiji",
+          "Australia"
+        ],
+        "answer": "Australia"
+      },
+      {
+        "question": "flags/in.png",
         "choices": [
           "Chile",
-          "Peru",
-          "Colombia"
+          "India",
+          "Japan"
         ],
-        "answer": "Chile"
+        "answer": "India"
+      },
+      {
+        "question": "flags/ru.png",
+        "choices": [
+          "Russia",
+          "Peru",
+          "Uzbekistan"
+        ],
+        "answer": "Russia"
       }
     ]
-  }
+
+    "level2": [
+      {
+        "question": "flags/sc.png",
+        "choices": [
+          "Seychelles",
+          "Mauritius",
+          "Madagascar"
+        ],
+        "answer": "Seychelles"
+      }
+      {
+        "question": "flags/eg.png",
+        "choices": [
+          "Sudan",
+          "Egypt",
+          "Chad"
+        ],
+        "answer": "Egypt"
+      }
+      {
+        "question": "flags/bd.png",
+        "choices": [
+          "Pakistan",
+          "India",
+          "Bangladesh"
+        ],
+        "answer": "Bangladesh"
+      }
+      {
+        "question": "flags/ar.png",
+        "choices": [
+          "Argentina",
+          "Chile",
+          "Paraguay"
+        ],
+        "answer": "Argentina"
+      }
+      {
+        "question": "flags/bt.png",
+        "choices": [
+          "Bhutan",
+          "Nepal",
+          "Cambodia"
+        ],
+        "answer": "Bhutan"
+      }
+      {
+        "question": "flags/ph.png",
+        "choices": [
+          "Malaysia",
+          "Philippines",
+          "Indonesia"
+        ],
+        "answer": "Philippines"
+      }
+      {
+        "question": "flags/ug.png",
+        "choices": [
+          "Somalia",
+          "Uganda",
+          "Tanzania"
+        ],
+        "answer": "Uganda"
+      }
+      {
+        "question": "flags/tr.png",
+        "choices": [
+          "Cyprus",
+          "Tunisia",
+          "Turkey"
+        ],
+        "answer": "Turkey"
+      }
+      {
+        "question": "flags/ec.png",
+        "choices": [
+          "Peru",
+          "Colombia",
+          "Ecuador"
+        ],
+        "answer": "Ecuador"
+      }
+      {
+        "question": "flags/gt.png",
+        "choices": [
+          "Belize",
+          "Guatemala",
+          "Honduras"
+        ],
+        "answer": "Guatemala"
+      }
+    ]
+
   
+  }
