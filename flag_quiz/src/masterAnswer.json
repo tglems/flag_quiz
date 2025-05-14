@@ -100,7 +100,8 @@
         "choices": [
           "Seychelles",
           "Mauritius",
-          "Madagascar"
+          "Madagascar",
+          “Guinea”
         ],
         "answer": "Seychelles"
       }
@@ -109,7 +110,8 @@
         "choices": [
           "Sudan",
           "Egypt",
-          "Chad"
+          "Chad",
+          “South Sudan”
         ],
         "answer": "Egypt"
       }
@@ -118,7 +120,8 @@
         "choices": [
           "Pakistan",
           "India",
-          "Bangladesh"
+          "Bangladesh",
+          “Nepal”
         ],
         "answer": "Bangladesh"
       }
@@ -127,7 +130,8 @@
         "choices": [
           "Argentina",
           "Chile",
-          "Paraguay"
+          "Paraguay",
+          “Uruguay”
         ],
         "answer": "Argentina"
       }
@@ -136,7 +140,8 @@
         "choices": [
           "Bhutan",
           "Nepal",
-          "Cambodia"
+          "Cambodia",
+          “Japan”
         ],
         "answer": "Bhutan"
       }
@@ -146,6 +151,7 @@
           "Malaysia",
           "Philippines",
           "Indonesia"
+          “Solomon Islands”
         ],
         "answer": "Philippines"
       }
@@ -154,7 +160,8 @@
         "choices": [
           "Somalia",
           "Uganda",
-          "Tanzania"
+          "Tanzania",
+          “Burundi”
         ],
         "answer": "Uganda"
       }
@@ -163,7 +170,8 @@
         "choices": [
           "Cyprus",
           "Tunisia",
-          "Turkey"
+          "Turkey",
+          “Greece”
         ],
         "answer": "Turkey"
       }
@@ -172,7 +180,8 @@
         "choices": [
           "Peru",
           "Colombia",
-          "Ecuador"
+          "Ecuador",
+          “Venezuela”
         ],
         "answer": "Ecuador"
       }
@@ -181,11 +190,129 @@
         "choices": [
           "Belize",
           "Guatemala",
-          "Honduras"
+          "Honduras",
+          “Nicaragua”
         ],
         "answer": "Guatemala"
       }
+   
     ]
+   “level3”: [
+       {
+   “question”: “flags/ghana.png”,
+   “choices”: [
+     “Algeria”,
+     “Ghana”,
+     “Mali”,
+     “Mauritius”,
+     “Libya”
+   ],
+   “answer”: “Ghana”
+ }
+ {
+   “question”: “flags/mozambique.png”,
+   “choices”: [
+     “Angola”,
+     “South Africa”,
+     “Eswatini”,
+     “Lesotho”,
+     “Mozambique”
+   ],
+   “answer”: “Mozambique”
+ }
+ {
+   “question”: “flags/cuba.png”,
+   “choices”: [
+     “Dominica”,
+     “Grenada”,
+     “Bahamas”,
+     “Cuba”,
+     “Jamaica”
+   ],
+   “answer”: “Cuba”
+ }
+ {
+    “question”: “flags/bosnia.png”,
+    “choices”: [
+      “Kosovo”,
+      “Albania”,
+      “Bosnia and Herzegovina”,
+      “Croatia”,
+      “Ukraine”
+    ],
+    “answer”: “Bosnia and Herzegovina”
+  }
+  {
+    “question”: “flags/taj.png”,
+    “choices”: [
+      “Kazakhstan”,
+      “Tajikistan”,
+      “Turkmenistan”,
+      “Pakistan”,
+      “Uzbekistan”
+    ],
+    “answer”: “Tajikistan”
+  }
+  {
+    “question”: “flags/kiribati.png”
+    “choices”: [
+      “Kiribati”,
+      “Fiji”,
+      “Vanuatu”,
+      “Micronesia”,
+      “Tuvalu”
+    ],
+    “answer”: “Kiribati”
+  }
+  {
+    “question”: “flags/israel.png”
+    “choices”: [
+      “Jordan”,
+      “Saudi Arabia”,
+      “Kuwait”,
+      “Lebanon”,
+      “Israel”
+    ],
+    “answer”: “Israel”
+  }
+  {
+    “question”: “flags/papua.png”
+    “choices”: [
+      “Bolivia”,
+      “Barbados”,
+      “Falkland Islands”,
+      “Papua New Guinea”,
+      “Laos”
+    ],
+    “answer”: “Papua New Guinea”
+  }
+  {
+    “question”: “flags/malta.png”
+    “choices”: [
+      “Liechtenstein”,
+      “Luxembourg”,
+      “Malta”,
+      “Vatican City”,
+      “Monaco”
+    ],
+    “answer”: “Malta” 
+  }
+  {
+    “question”: “flags/azerbaijan.png”
+    “choices”: [
+      “Armenia”
+      “Azerbaijan”
+      “Georgia”
+      “Chile”
+      “Nepal”
+    ],
+    “answer”: “Azerbaijan”
+  }
+
+
+    ]
+ }
+
 
   
   }
